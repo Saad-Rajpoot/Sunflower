@@ -13,9 +13,9 @@ This project creates a dynamic visualization of a sunflower pattern using Flutte
 ## Screenshots
 
 <p align="start">
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/a5bead64-8bae-4fe1-9247-8a98d86758c3" alt="Sunflower 1" width="250"/>
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/bed29dc9-b0bd-435f-a57f-d6e69bdea2fc" alt="Sunflower 2" width="250"/>
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/4f9acb61-356c-4ad2-a5d3-64966296d9e1" alt="Sunflower 3" width="250"/>
+  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/1c01ee31-cf03-4280-b2fe-08765b6c169a" alt="Sunflower 1" width="300"/>
+  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/bf6f6cbf-9c80-42d0-9693-6dbe3210f302" alt="Sunflower 2" width="300"/>
+  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/2c2788e1-1930-4685-b403-8fac7ea9937e" alt="Sunflower 3" width="300"/>
 </p>
 
 
@@ -23,7 +23,7 @@ This project creates a dynamic visualization of a sunflower pattern using Flutte
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/sunflower-visualization.git
+   git clone https://github.com/Saad-Rajpoot/Sunflower.git
    cd sunflower-visualization
 
 2. **Install Dependencies:**:
@@ -33,7 +33,6 @@ This project creates a dynamic visualization of a sunflower pattern using Flutte
 3. **Run the App:**:
    ```bash
    flutter run
-
 
 ## Usage
 
