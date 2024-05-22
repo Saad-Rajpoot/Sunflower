@@ -13,9 +13,9 @@ This project creates a dynamic visualization of a sunflower pattern using Flutte
 ## Screenshots
 
 <p align="start">
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/1c01ee31-cf03-4280-b2fe-08765b6c169a" alt="Sunflower 1" width="300"/>
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/bf6f6cbf-9c80-42d0-9693-6dbe3210f302" alt="Sunflower 2" width="300"/>
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/2c2788e1-1930-4685-b403-8fac7ea9937e" alt="Sunflower 3" width="300"/>
+  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/1c01ee31-cf03-4280-b2fe-08765b6c169a" alt="Sunflower 1" width="280"/>
+  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/bf6f6cbf-9c80-42d0-9693-6dbe3210f302" alt="Sunflower 2" width="280"/>
+  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/2c2788e1-1930-4685-b403-8fac7ea9937e" alt="Sunflower 3" width="280"/>
 </p>
 
 
